@@ -1,0 +1,138 @@
+[Closed Files]
+File_0=SourceModule,'C:\Program Files\Borland\Delphi7\Lib\DFFileInfo.pas',0,1,1,1,1,0,0
+File_1=SourceModule,'C:\Program Files\Borland\Delphi7\Lib\Bass_Dynamic.pas',0,1,1,1,1,0,0
+File_2=SourceModule,'C:\Eigene Dateien\FlatStyle\FlatUtilitys.pas',0,1,43,21,76,0,0
+File_3=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatTabControlUnit.pas',0,1,31,1,41,0,0
+File_4=SourceModule,'C:\Eigene Dateien\FlatStyle\HSLUtils.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatRegister.pas',0,4,7,19,20,0,0
+File_6=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatButtonUnit.pas',0,1,356,1,377,0,0
+File_7=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatGaugeUnit.pas',0,1,145,12,149,0,0
+File_8=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatProgressBarUnit.pas',0,1,43,34,48,0,0
+File_9=SourceModule,'C:\Eigene Dateien\FlatStyle\TFlatListBoxUnit.pas',0,1,52,49,57,0,0
+
+[Modules]
+Count=0
+EditWindowCount=0
+PackageWindowCount=1
+
+[D:\Incoming\[.WORK]\[Source]\CD Burner Library Source Code\CD Burner Library Source Code\Delphi Component CD Sizer\CDBurnerPack.dpk]
+FormState=0
+FormOnTop=1
+
+[D:\Incoming\[.WORK]\[Source]\CD Burner Library Source Code\CD Burner Library Source Code\Delphi Component CD Sizer\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[PackageWindow0]
+Create=1
+Visible=0
+State=0
+Left=252
+Top=241
+Width=368
+Height=244
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=352
+ClientHeight=205
+TBDockHeight=244
+LRDockWidth=368
+Dockable=1
+StatusBar=0
+TextLabels=1
+Toolbar=1
+SectionWidth0=150
+SectionWidth1=202
+Module=D:\Incoming\[.WORK]\[Source]\CD Burner Library Source Code\CD Burner Library Source Code\Delphi Component CD Sizer\CDBurnerPack.dpk
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1366
+Height=149
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1350
+ClientHeight=110
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=318
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=318
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=125
+Width=156
+Height=89
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=381
+Width=190
+Height=380
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=341
+TBDockHeight=380
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=123
+Width=190
+Height=256
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=217
+TBDockHeight=256
+LRDockWidth=190
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
