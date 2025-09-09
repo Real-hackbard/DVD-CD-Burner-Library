@@ -3,7 +3,7 @@
 </br>
 
 ```ruby
-Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
+Compiler    : Delphi7 (or Higher)
 Components  : CDTools.pas
 Discription : DVD-CD Burner Library
 Last Update : 09/2025
